@@ -1,0 +1,7 @@
+$custom-font-family: 'Ubuntu', sans-serif;
+
+@use 'vuetify/settings' with (
+  $body-font-family: $custom-font-family,
+  $heading-font-family: $custom-font-family,
+  $font-size-root: 0.9rem
+);
