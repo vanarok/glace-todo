@@ -1,20 +1,14 @@
-# GlaceToDo
+# Glacé To Do
 
-A keyboard-driven Todo list that is designed around the principle of “small things solve big things”.
+A keyboard-driven todo list that is designed around the principle of “small things solve big things”.
 
-# Features
+## Navigation
 
-- [x] Create task
-- [x] Save and read todo list from todo.txt format 
-- [ ] Mark task as done 
-- [ ] Drag and drop task to reorder
-- [ ] Delete task
-- [ ] Edit task
-- [ ] Filter tasks
-- [ ] Active task view
-- [ ] Completed task view
-- [ ] Clear completed tasks
-- [ ] Full screen break mode with pomodoro timer
-- [ ] Keyboard shortcuts view
-- [ ] Create custom Vuetify theme
-- [ ] Replace vuetify icons 
+- `Ctrl + N` focuses the input
+- `Ctrl + T` focuses the list
+- `Ctrl + Enter` completes a todo
+- `Delete` deletes a todo
+
+and intuitive navigation between the input and the list
+
+![Screenshot](./public/screenshot.png)
